@@ -4,7 +4,7 @@ This is my solution to the [Skilled e-learning landing page challenge on Fronten
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://skilled-landing.netlify.app)
+- Live Site URL: [https://skilled-landing.netlify.app]
 
 ### Built with
 
@@ -15,5 +15,5 @@ This is my solution to the [Skilled e-learning landing page challenge on Fronten
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jake4369)
-- Twitter - [@yourusername](https://www.twitter.com/jakexcode)
+- Frontend Mentor - [@jake4369](https://www.frontendmentor.io/profile/jake4369)
+- Twitter - [@jakexcode](https://www.twitter.com/jakexcode)
